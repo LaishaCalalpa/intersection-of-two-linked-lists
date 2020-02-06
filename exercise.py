@@ -1,2 +1,2 @@
-def intersection_node():
+def getIntersectionNode(headA: Node, headB: Node) -> Node:
     pass
